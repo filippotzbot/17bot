@@ -146,8 +146,8 @@ global.tiktok = 'https://www.instagram.com/filippotozzii'
 global.fb = 'https://www.facebook.com/nonhofacebook'
 global.faceb = 'https://facebook.com'
 
-global.n2 = "https://whatsapp.com/channel/0029VaWABAMG8l5K8K9PAB3v" //canal cortaba 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
+global.n2 = "https://whatsapp.com/channel/0029Vb0j8QX84OmFZZsJKW15" //canal cortaba 
+global.nna = 'https://whatsapp.com/channel/0029Vb0j8QX84OmFZZsJKW15' //Update 
 global.nn = 'https://chat.whatsapp.com/HOcczbax7HR1TgRcLfeBRE' //LoliBot
 global.nn2 = 'https://chat.whatsapp.com/HOcczbax7HR1TgRcLfeBRE' //Loli & Nova
 global.nn3 = 'https://chat.whatsapp.com/HOcczbax7HR1TgRcLfeBRE' //Grupo de Colaboracion
