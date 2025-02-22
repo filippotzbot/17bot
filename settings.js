@@ -5,7 +5,7 @@ const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js')
 
 //---------[ PROPIETARIO/OWNER ]---------
 global.owner = [
-["15167096032", "Owner", true],
+["393270466066", "Owner", true],
 ["50766066665"], 
 ["595975740803"], 
 ["595986172767"], 
@@ -140,11 +140,11 @@ global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 global.verificar = 'https://qu.ax/Wogm.mp4'
 
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/russellxz/CORTANABOT2.0.git'
-global.yt = 'https://www.youtube.com/@RussellxzZing507andCrownsavage'
-global.tiktok = 'https://www.instagram.com/russellxz507ny'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.faceb = 'https://facebook.com/groups/872989990425789/'
+global.md = 'https://github.com'
+global.yt = 'https://www.youtube.com'
+global.tiktok = 'https://www.instagram.com/filippotozzii'
+global.fb = 'https://www.facebook.com/nonhofacebook'
+global.faceb = 'https://facebook.com'
 
 global.n2 = "https://whatsapp.com/channel/0029VaWABAMG8l5K8K9PAB3v" //canal cortaba 
 global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update 
